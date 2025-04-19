@@ -52,4 +52,5 @@
 - 會產出一個 API Key 按下複製後
  - 請到[這裡](https://cpeggy=poa.onrender.com/)到 **API 設定** 將剛剛複製的 **API Key** 貼進去
  - 建議可以貼在暫存區（電腦便利貼、備忘錄.等）
+ - ![image](https://github.com/mfumien/net_learnin/blob/main/02pra_playoutput/%E6%88%AA%E5%9C%96%202025-04-14%2022.44.39.png)
 
